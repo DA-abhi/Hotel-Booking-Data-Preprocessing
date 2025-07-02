@@ -7,6 +7,7 @@ This project involved cleaning, transforming, and preparing a large hotel bookin
 * Ensuring data quality for robust insights.
 * Excited about the clean dataset ready for predictive modeling and visualization!
 # Python Script 
-Check the code of Debtor Country by using this ![script]() or directly download excel file containing 'Debtor Country Code' here
+![](https://github.com/DA-abhi/Hotel-Booking-Data-Preprocessing/blob/main/Screenshot%202025-07-02%20155640.png)
+Check the code of Debtor Country by using this ![script](https://github.com/DA-abhi/Hotel-Booking-Data-Preprocessing/blob/main/Hotel%20Booking%20Data%20Preprocessing.html) or directly download Pdf file ![click here](https://github.com/DA-abhi/Hotel-Booking-Data-Preprocessing/blob/main/Hotel%20Booking%20Data%20Preprocessing.pdf)
 # Conclusion:
 This foundational work ensures future analyses will be accurate and impactful, paving the way for truly data-driven strategies.
